@@ -1,0 +1,12 @@
+
+/*Personalizar Cursor*/
+img{
+  cursor: url("/path"),auto;
+}
+
+/*Zoom*/
+
+img:hover{
+  transform: scale(1.1);
+}
+
